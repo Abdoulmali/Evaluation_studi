@@ -1,0 +1,62 @@
+@charset "UTF-8"
+
+/* font-family: 'Raleway', sans-serif; */
+/* bleu clair -> #3498DB */
+/* bleu foncé #2C3E50*/
+ html, body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+
+/* --- à propos ---*/
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h2 p {
+  max-width: 90%px;
+
+}
+.main {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(68, 149, 235);
+}
+.container-article {
+  max-width: 90%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 15px ;
+  background-color: rgb(206, 204, 204);
+}
+
+div {
+padding: 40px;
+}
+
+img {
+  max-width: 70%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 60px;
+  box-shadow: 5px 5px 15px ;
+  background-color: black;
+}
+
+p {
+  font-size: 150%;
+}
